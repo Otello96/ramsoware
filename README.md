@@ -44,8 +44,8 @@
 
 ```bash
 # 1. Clone operational repository
-git clone https://github.com/AndreaCavanna/lockspire
-cd lockspire
+git clone https://github.com/AndreaCavanna/Lockspire-2.0
+cd lockspire-2.0
 
 # 2. Create isolated test environment (MANDATORY)
 mkdir test_victim_folder
